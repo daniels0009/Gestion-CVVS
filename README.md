@@ -87,10 +87,10 @@ comunicacion, la informacion no quede en la deriva.
 
 ***CRONOGRAMA***
 ![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono1.png)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono2.png)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono3.png)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono4.png)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono5.png)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono2.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono3.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono4.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono5.PNG)
 
 
 ***COSTOS***
