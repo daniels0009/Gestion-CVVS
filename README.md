@@ -10,10 +10,14 @@ En colombia la problemática de constante delincuencia, no es considerada en la 
 ***Objetivos:***
 ```plain
 - Brindar un apoyo y ayuda a un problema del común.
-- Crear un aplicativo web eficaz y con módulos planteados mediante a lo que aprenderemos en el curso.
-- Determinar roles eficaces para optimizar el manejo de dicha página (usuarios, moderadores, administradores, etc.)
-- Establecer una base de datos en la cual se puedan consultar y/o almacenar fácilmente la información necesaria y requerida.
-- Optimizar según los requerimientos y pautas en el planteamiento del diseño, evitando de esta manera los índices de riesgos.
+- Crear un aplicativo web eficaz y con módulos planteados mediante 
+a lo que aprenderemos en el curso.
+- Determinar roles eficaces para optimizar el manejo de dicha página
+(usuarios, moderadores, administradores, etc.)
+- Establecer una base de datos en la cual se puedan consultar y/o 
+almacenar fácilmente la información necesaria y requerida.
+- Optimizar según los requerimientos y pautas en el planteamiento 
+del diseño, evitando de esta manera los índices de riesgos.
 ```
 
 ***Alcances:***
@@ -35,15 +39,28 @@ Generar una plataforma acoplada a una base de datos que permita un soporte y fac
 
 ***Criterios de éxito:***
 ```plain
-- Cada uno de los módulos tienen que ser independientes para evitar una excesiva carga de datos.
-- Generar una plataforma con una velocidad de respuesta aceptable y que tenga una capacidad buena de usuarios a la vez conectados sin alterar su desempeño.
-- Ofrecer una plataforma lo más completa posible para evitar un mínimo de riesgo y reducir el porcentaje de mantenimiento.
-- Optar por un sistema con una seguridad buena contra posibles ataques de gente externa y delincuentes.
-- Entregar resultados de formularios, respuestas e información tratada con eficacia y que sea sobresaliente a lo que se trata.
-- Presentar un sistema autónomo y no dependiente a lo que es la compañía a la cual se presentará este proyecto.
-- Manejar la información desde una nube, tratada para el resultado del punto anterior, logrando que en cuestiones de falencias en comunicacion, la informacion no quede en la deriva.
-- Realizar una actualización de datos ágil, en la cuestión de los formularios. Para el módulo de denuncias se tomará un mediador que confirmará el correcto envío e información y el procedera a realizar la publicacion.
-- Pretender tener el mínimo índice de errores y toma de resultados de riesgo en el manejo de absolutamente todos los usuarios de la plataforma.
+- Cada uno de los módulos tienen que ser independientes para 
+evitar una excesiva carga de datos.
+- Generar una plataforma con una velocidad de respuesta aceptable
+y que tenga una capacidad buena de usuarios a la vez conectados
+sin alterar su desempeño.
+- Ofrecer una plataforma lo más completa posible para evitar un 
+mínimo de riesgo y reducir el porcentaje de mantenimiento.
+- Optar por un sistema con una seguridad buena contra posibles 
+ataques de gente externa y delincuentes.
+- Entregar resultados de formularios, respuestas e información 
+tratada con eficacia y que sea sobresaliente a lo que se trata.
+- Presentar un sistema autónomo y no dependiente a lo que es la
+compañía a la cual se presentará este proyecto.
+- Manejar la información desde una nube, tratada para el resultado
+del punto anterior, logrando que en cuestiones de falencias en 
+comunicacion, la informacion no quede en la deriva.
+- Realizar una actualización de datos ágil, en la cuestión de los
+formularios. Para el módulo de denuncias se tomará un mediador que
+confirmará el correcto envío e información y el procedera a realizar
+la publicacion.
+- Pretender tener el mínimo índice de errores y toma de resultados 
+de riesgo en el manejo de absolutamente todos los usuarios de la plataforma.
 ```
 
 
