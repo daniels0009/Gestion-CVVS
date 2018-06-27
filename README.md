@@ -8,7 +8,7 @@ En colombia la problemática de constante delincuencia, no es considerada en la 
 
 
 ***Objetivos:***
-```plain
+- A largo plazo cualquiera pueda aprender de la Ingeniería Informática por medio de este repositorio.
 - Brindar un apoyo y ayuda a un problema del común.
 - Crear un aplicativo web eficaz y con módulos planteados mediante 
 a lo que aprenderemos en el curso.
@@ -18,7 +18,7 @@ a lo que aprenderemos en el curso.
 almacenar fácilmente la información necesaria y requerida.
 - Optimizar según los requerimientos y pautas en el planteamiento 
 del diseño, evitando de esta manera los índices de riesgos.
-```
+
 
 ***Alcances:***
 
