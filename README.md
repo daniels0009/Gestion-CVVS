@@ -32,3 +32,50 @@ El sistema brindará soporte a una serie de administradores locales, en el ámbi
 Meta del proyecto: 
 
 Generar una plataforma acoplada a una base de datos que permita un soporte y facilidad a usuarios que inserten los datos requeridos y estimados que se tendrán en cuenta para los procesos. Asi mismo como módulos vinculados a los administradores en los cuales podrán gestionar todos los datos y por cada uno de ellos, el sistema generará una base para el soporte de datos y respuestas.
+
+Criterios de éxito:
+```plain
+- Cada uno de los módulos tienen que ser independientes para evitar una excesiva carga de datos.
+- Generar una plataforma con una velocidad de respuesta aceptable y que tenga una capacidad buena de usuarios a la vez conectados sin alterar su desempeño.
+- Ofrecer una plataforma lo más completa posible para evitar un mínimo de riesgo y reducir el porcentaje de mantenimiento.
+- Optar por un sistema con una seguridad buena contra posibles ataques de gente externa y delincuentes.
+- Entregar resultados de formularios, respuestas e información tratada con eficacia y que sea sobresaliente a lo que se trata.
+- Presentar un sistema autónomo y no dependiente a lo que es la compañía a la cual se presentará este proyecto.
+- Manejar la información desde una nube, tratada para el resultado del punto anterior, logrando que en cuestiones de falencias en comunicacion, la informacion no quede en la deriva.
+- Realizar una actualización de datos ágil, en la cuestión de los formularios. Para el módulo de denuncias se tomará un mediador que confirmará el correcto envío e información y el procedera a realizar la publicacion.
+- Pretender tener el mínimo índice de errores y toma de resultados de riesgo en el manejo de absolutamente todos los usuarios de la plataforma.
+```
+
+
+
+
+
+
+Lista de tareas
+```plain
+1. Análisis de las  Necesidades.
+2. Generar informe de las necesidades.
+3. Análisis de los requerimientos.
+4. Consulta de la infraestructura.
+5. Condiciones de servicios requeridos.
+6. Evaluación de propuestas.
+7. Firma del contrato.
+8.Actualización de requerimientos.
+9. Diseño del módulo de Administración.
+10. Diseño del módulo de Alerta Ciudadana.
+11. Diseño del módulo de Denuncias.
+12. Diseño del módulo de CRUD Delincuentes.
+13. Diseño del software.
+14. Desarrollo de componentes. 
+15. Pruebas de componentes.
+16. Pruebas de nuevos componentes.
+17. Despliegue de la plataforma.
+18. Capacitación de la plataforma.
+```
+EDT
+![EDT](https://github.com/adrianga96/Gestion-CVVS/blob/master/EDT.png)
+
+FORMATO FUNCIONAL
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff1.png)
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff2.png)
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff3.png)
