@@ -92,37 +92,39 @@ comunicacion, la informacion no quede en la deriva.
 ![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/cost1.png)
 ![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/cost2.png)
 
-***ESTRUCTURA ORGANICA***
-![ESTRUCTURA ORGANICA](https://github.com/adrianga96/Gestion-CVVS/blob/master/est%20org.png)
+***ESTRUCTURA ORGANIZACIONAL***
+![ESTRUCTURA ORGANIZACIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/est%20org.png)
 
 ***RIESGOS***
 
-1.Daño en Hardware: Los equipos que se manejan en el proyecto, no están exentos de una falla en sus componentes.
+**1.Daño en Hardware:** Los equipos que se manejan en el proyecto, no están exentos de una falla en sus componentes.
 
 *Mitigación del Riesgo:* Mantener un computador de respaldo, con todo el Software idéntico al que tienen todos los equipos de la organización.
 
-2.Pérdida de Datos: El riesgo de daño en el sistema operativo, y que se pierdan los datos que se estaban trabajando hasta el momento.
+**2.Pérdida de Datos:** El riesgo de daño en el sistema operativo, y que se pierdan los datos que se estaban trabajando hasta el momento.
 
 *Mitigación del Riesgo:* Tener un programa de Back Ups constantes. para reducir el riesgo al mínimo posible.
 
-3.Complejidad de la Herramienta: No se está exento de que el desarrollo resulte en herramientas complicadas en cuanto al conocimiento de los involucrados en el proyecto.
+**3.Complejidad de la Herramienta:** No se está exento de que el desarrollo resulte en herramientas complicadas en cuanto al conocimiento de los involucrados en el proyecto.
 
 *Mitigación del Riesgo:* Tener un fondo de cobertura para la contratación de personal especializado, en caso de que se requiera.
 
-4.Prestación y Fiabilidad: Hay que tener en cuenta la regulación normativa y de ley con respecto a los contratos que se hagan con los empleados del proyecto. Ya que tiene muchas condiciones y riesgos. 
+**4.Prestación y Fiabilidad:** Hay que tener en cuenta la regulación normativa y de ley con respecto a los contratos que se hagan con los empleados del proyecto. Ya que tiene muchas condiciones y riesgos. 
 
 *Mitigación del Riesgo:* Ofrecer un contrato por prestación de Servicios, ya que mitiga mucho las regulaciones existentes. Disminuye los riesgos en demandas laborales.
 
-5.Calidad: Es necesario que el Software cumpla con todas las normativas de Calidad plantadas en las leyes para el desarrollo.
+**5.Calidad:** Es necesario que el Software cumpla con todas las normativas de Calidad plantadas en las leyes para el desarrollo.
 
 *Mitigación del Riesgo:* Contratación de una persona que tenga el perfil especializado en Calidad del Software. Y esté en constante contacto y revisión del mismo.
 
-6.SubContratistas y Proveedores: Es menester tener en cuenta todos los contratistas que se requieran para el proyecto. Teniendo plena certeza de que se está en orden con todos. 
+**6.SubContratistas y Proveedores:** Es menester tener en cuenta todos los contratistas que se requieran para el proyecto. Teniendo plena certeza de que se está en orden con todos. 
 
 *Mitigación del Riesgo:* Comprar las licencias de todo el Software que se esté usando para el desarrollo, contactando directamente con la casa productora, y organizar las licencias como soporte documental.
 
-7.Regulación:  Se debe tener en cuenta que para que un proyecto gubernamental tenga verdadero éxito y se acoja a todas las normas vigentes, dicho desarrollo debe tener la certificación de que todos los procesos y controles, si se llevaron a cabo. 
+**7.Regulación:**  Se debe tener en cuenta que para que un proyecto gubernamental tenga verdadero éxito y se acoja a todas las normas vigentes, dicho desarrollo debe tener la certificación de que todos los procesos y controles, si se llevaron a cabo. 
+
 *Mitigación del Riesgo:* Verificar todos los títulos educativos de los empleados, asegurándose de su veracidad.
 
-8.Tiempo: En muchas ocasiones se presenta que los tiempos de Entrega cambian, por lo que los costes pierden su matiz original, y se presenta desorden en la organización.
+**8.Tiempo:** En muchas ocasiones se presenta que los tiempos de Entrega cambian, por lo que los costes pierden su matiz original, y se presenta desorden en la organización.
+
 *Mitigación del Riesgo:* Dejar claro en el contrato, y en cada acta, el tiempo concreto de la entrega de la solución, para que no hayan cambios momentaneos en ellos. 
