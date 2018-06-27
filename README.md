@@ -77,6 +77,9 @@ comunicacion, la informacion no quede en la deriva.
 ***EDT***
 ![EDT](https://github.com/adrianga96/Gestion-CVVS/blob/master/EDT.png)
 
+***ESTRUCTURA ORGANIZACIONAL***
+![ESTRUCTURA ORGANIZACIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/est%20org.png)
+
 ***FORMATO FUNCIONAL***
 ![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff1.png)
 ![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff2.png)
@@ -97,8 +100,7 @@ comunicacion, la informacion no quede en la deriva.
 ![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/cost1.png)
 ![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/cost2.png)
 
-***ESTRUCTURA ORGANIZACIONAL***
-![ESTRUCTURA ORGANIZACIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/est%20org.png)
+
 
 ***RIESGOS***
 
