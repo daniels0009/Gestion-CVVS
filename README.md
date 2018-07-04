@@ -1,7 +1,7 @@
 # SOFTWARE PARA LA GESTIÓN DE DELINCUENTES PONAL
 
-*Jorge Aguilar Obregón           20132020020
-Cristian Alexander Bravo         20142020074
+*Jorge Aguilar Obregón           20132020020                                                                                                                                                                                      
+Cristian Alexander Bravo         20142020074                                                                                                                                                                                      
 Daniel Camargo Pepinosa          20142020094                                                                                                                                                                                      
 Carlos Fuentes Linares           20142020107                                                                                           
 Rafael Adrián Garavito Tello     20132020051                                                                                           
