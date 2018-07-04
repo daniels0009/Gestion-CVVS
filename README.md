@@ -85,30 +85,31 @@ comunicacion, la informacion no quede en la deriva.
 18. Capacitación de la plataforma.
 
 ***EDT***
-![EDT](https://github.com/adrianga96/Gestion-CVVS/blob/master/EDT.png)
+
+![EDT](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/EDT.png)
 
 ***ESTRUCTURA ORGANIZACIONAL***
-![ESTRUCTURA ORGANIZACIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/est%20org.png)
+![ESTRUCTURA ORGANIZACIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/est%20org.png)
 
 ***FORMATO FUNCIONAL***
-![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff1.png)
-![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff2.png)
-![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/ff3.png)
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/ff1.png)
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/ff2.png)
+![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/ff3.png)
 
 ***FLUJOGRAMA***
-![FLUJOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/flujo.png)
+![FLUJOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/flujo.png)
 
 ***CRONOGRAMA***
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono1.png)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono2.PNG)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono3.PNG)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono4.PNG)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/crono5.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono1.png)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono2.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono3.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono4.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono5.PNG)
 
 
 ***COSTOS***
-![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/cost1.png)
-![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/cost2.png)
+![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/cost1.png)
+![COSTOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/cost2.png)
 
 
 
