@@ -89,7 +89,7 @@ comunicacion, la informacion no quede en la deriva.
 ![EDT](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/EDT.png)
 
 ***ESTRUCTURA ORGANIZACIONAL***
-![ESTRUCTURA ORGANIZACIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/est%20org.png)
+![ESTRUCTURA ORGANIZACIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/est%20org.jpeg)
 
 ***FORMATO FUNCIONAL***
 ![FORMATO FUNCIONAL](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/ff1.png)
@@ -100,11 +100,11 @@ comunicacion, la informacion no quede en la deriva.
 ![FLUJOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/flujo.png)
 
 ***CRONOGRAMA***
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono1.png)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono2.PNG)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono3.PNG)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono4.PNG)
-![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono5.PNG)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono1.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono2.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono3.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono4.jpeg)
+![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono5.jpeg)
 
 
 ***COSTOS***
