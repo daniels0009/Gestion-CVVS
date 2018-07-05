@@ -101,9 +101,13 @@ comunicacion, la informacion no quede en la deriva.
 
 ***CRONOGRAMA***
 ![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono1.jpeg)
+
 ![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono%202.jpeg)
+
 ![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono3.jpeg)
+
 ![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono4.jpeg)
+
 ![CRONOGRAMA](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/crono5.jpeg)
 
 
