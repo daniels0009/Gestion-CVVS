@@ -146,3 +146,5 @@ comunicacion, la informacion no quede en la deriva.
 **8.Tiempo:** En muchas ocasiones se presenta que los tiempos de Entrega cambian, por lo que los costes pierden su matiz original, y se presenta desorden en la organización.
 
 *Mitigación del Riesgo:* Dejar claro en el contrato, y en cada acta, el tiempo concreto de la entrega de la solución, para que no hayan cambios momentaneos en ellos. 
+
+![RIESGOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Riesgos.png)
