@@ -104,29 +104,25 @@ Los elementos de pruebas considerados, son aquellos componentes construidos en e
   <tbody>
     <tr>
       <td>Componentes a ser aprovados</td>
-      <td>-	**Modulo de registro:** 
--	**Modulo de registro de denuncia:** .
--	**Modulo de eliminacion modificacion :** . 
--	**Modulo de seguimiento.
+      <td>Modulo de registro,Modulo de registro de denuncia
+,Modulo de eliminacion modificacion,Modulo de seguimiento.
 </td>
     </tr>
     <tr>
       <td>objetivo de las pruebas</td>
       <td>En los modulos anteriores se relizaran las pruebas para validar:
--	**verificar la conectividad :** 
--	**Efecturar de manera correcta cada uno de los procesos:** .
--	**Facil usabilidad para el usuario:** . 
--	** Realizar de manera logica cada proceso.
+verificar la conectividad ,Efecturar de manera correcta cada uno de los procesos,
+Facil usabilidad para el usuario,Realizar de manera logica cada proceso.
 </td>
     </tr>
 
     <tr>
-      <td>Datalle del orden de ejecuccion de los componentes</td>
+      <td>Detalle del orden de ejecuccion de los componentes</td>
       <td> los modulos anteriores se deben ejecutar en forma independiente pero consecutivos en el orden siguiente:
 -	**Registar usuario :** 
 -	**Registrar denuncia:** .
 -	**modificacion eliminacion y busqueda de esta denuncia:** . 
--	** Pago de esta denuncia.
+-	** Pago de esta denuncia:** .
 </td>
     </tr>
 
