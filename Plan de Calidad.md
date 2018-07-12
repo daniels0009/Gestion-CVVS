@@ -6,36 +6,31 @@
 *FICHA DEL DOCUMENTO	
 CONTENIDO*	
 
-1	INTRODUCCIÓN
-1.1	Propósito	
-1.2	Alcance	
-1.3	Personal involucrado	
-1.4	Resumen	
-2	DESCRIPCIÓN GENERAL	
-2.1	Perspectiva del producto	
-2.2	Funcionalidad del producto
-2.3	Características de los usuarios	
-2.4	Restricciones	
-2.5	Suposiciones y dependencias	
-2.6	Evolución previsible del sistema	
-3	REQUISITOS ESPECÍFICOS	
-3.1	Requisitos comunes de los interfaces	
-3.1.1	Interfaces de usuario	
-3.1.2	Interfaces de hardware	
-3.1.3	Interfaces de software	
-3.1.4	Interfaces de comunicación	
-3.2	Requisitos funcionales	
-3.2.1	Requisito funcional 1	
-3.2.2	Requisito funcional 2	
-3.2.3	Requisito funcional 3	
-3.2.4	Requisito funcional n	
-3.3	Requisitos no funcionales	
-3.3.1	Requisitos de rendimiento	
-3.3.2	Seguridad	
-3.3.3	Fiabilidad	
-3.3.4	Disponibilidad	
-3.3.5	Mantenibilidad	
-3.3.6	Portabilidad	
+1	INTRODUCCIÓN														1.1	Propósito														
+1.2	Alcance															
+1.3	Personal involucrado													
+1.4	Resumen															
+2	DESCRIPCIÓN GENERAL													
+2.1	Perspectiva del producto												
+2.2	Funcionalidad del producto												
+2.3	Características de los usuarios												
+2.4	Restricciones														
+2.5	Suposiciones y dependencias												
+2.6	Evolución previsible del sistema											
+3	REQUISITOS ESPECÍFICOS													
+3.1	Requisitos comunes de los interfaces											
+3.1.1	Interfaces de usuario													
+3.1.2	Interfaces de hardware													
+3.1.3	Interfaces de software													
+3.1.4	Interfaces de comunicación												
+3.2	Requisitos funcionales													
+3.3	Requisitos no funcionales												
+3.3.1	Requisitos de rendimiento												
+3.3.2	Seguridad														
+3.3.3	Fiabilidad														
+3.3.4	Disponibilidad														
+3.3.5	Mantenibilidad														
+3.3.6	Portabilidad														
 
  
 *1. Introducción*
@@ -89,9 +84,9 @@ El sistema brindará soporte a una serie de administradores locales, en el ámbi
 
 *2.3 Características de los usuarios*
 
-![CARACTERÍSTICAS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Carac1.png)
-![CARACTERÍSTICAS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Carac2.png)
-![CARACTERÍSTICAS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Carac3.png)
+![CARACTERÍSTICAS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Carac1.PNG)
+![CARACTERÍSTICAS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Carac2.PNG)
+![CARACTERÍSTICAS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Carac3.PNG)
 
 *2.4 Restricciones*
 
@@ -112,75 +107,75 @@ El sistema se encuentra abierto a cambios y propuestas establecidas después de 
 
 Requerimiento para la creación de un administrador, para ello, ya debe haber sido generado desde el principio un administrador principal.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq2.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq2.PNG)
 
 Requerimiento para la modificación de un administrador, para ello, ya debe haber sido generado desde el principio un administrador principal.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq3.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq3.PNG)
 
 Requerimiento para la eliminación de un administrador, para ello, ya debe haber sido generado desde el principio un administrador principal. Para que de esta manera no quede el modulo sin una rama principal.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq4.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq4.PNG)
 
 Requerimiento para la creación de un Moderador, para ello, el administrador es el único que puede realizar esto.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq5.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq5.PNG)
 
 Requerimiento para la creación de un Moderador, para ello, el administrador es el único que puede realizar esto.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq6.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq6.PNG)
 
 Requerimiento para la eliminación de un Moderador, para ello, el administrador es el único que puede realizar esto.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq7.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq7.PNG)
 
 Requerimiento para la examinación y revisión de alerta ciudadana.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq8.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq8.PNG)
 
 Requerimiento para la examinación y revisión del módulo de denuncias.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq9.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq9.PNG)
 
 Requerimiento para la examinación, atención y revisión del CRUD de delincuentes.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq10.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq10.PNG)
 
 Publicación de contenido en el módulo de alerta ciudadana, teniendo en cuenta la información validada de los usuarios.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq11.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq11.PNG)
 
 Publicación de contenido en el módulo de denuncias, teniendo en cuenta la información validada de los usuarios.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq12.png) 
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq12.PNG) 
  
 Publicación de contenido en el módulo del CRUD de delincuentes, teniendo en cuenta la información validada de los usuarios.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq13.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq13.PNG)
 
 Publicación de contenido en el módulo de denuncias, teniendo en cuenta la información validada de los usuarios.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq14.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq14.PNG)
 
 Creación del usuario según la solicitud del usuario, verificando correctamente los datos y generando una contraseña aleatoria.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq15.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq15.PNG)
 
 Modificación de la información de un usuario normal, tomando en cuenta una solicitud y verificación por el usuario, Moderador y/o administrador.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq16.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq16.PNG)
 
 Eliminación de la información de un usuario normal, tomando en cuenta una solicitud y verificación por el usuario, Moderador y/o administrador.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq17.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq17.PNG)
 
 Envió de información por parte de un usuario sobre una denuncia a la alerta ciudadana, esta se validará por un mediador y/o Administrador.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq18.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq18.PNG)
 
 Envió de información por parte de un usuario sobre una denuncia, esta se validará por un Moderador y/o Administrador.
 
-![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq19.png)
+![REQUISITOS](https://github.com/adrianga96/Gestion-CVVS/blob/master/Imagenes/Calidad/Rq19.PNG)
 
 Envió de información por parte de un usuario sobre una actualización al CRUD de delincuentes, esta información se validará por un Moderador y/o Administrador.
 
