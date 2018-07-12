@@ -2,37 +2,6 @@
 
 ***Proyecto: Software para la gestión de delincuentes PONAL*** 
  
-***CONTENIDO***
-*FICHA DEL DOCUMENTO	
-CONTENIDO*	
-
-1	INTRODUCCIÓN														1.1	Propósito														
-1.2	Alcance															
-1.3	Personal involucrado													
-1.4	Resumen															
-2	DESCRIPCIÓN GENERAL													
-2.1	Perspectiva del producto												
-2.2	Funcionalidad del producto												
-2.3	Características de los usuarios												
-2.4	Restricciones														
-2.5	Suposiciones y dependencias												
-2.6	Evolución previsible del sistema											
-3	REQUISITOS ESPECÍFICOS													
-3.1	Requisitos comunes de los interfaces											
-3.1.1	Interfaces de usuario													
-3.1.2	Interfaces de hardware													
-3.1.3	Interfaces de software													
-3.1.4	Interfaces de comunicación												
-3.2	Requisitos funcionales													
-3.3	Requisitos no funcionales												
-3.3.1	Requisitos de rendimiento												
-3.3.2	Seguridad														
-3.3.3	Fiabilidad														
-3.3.4	Disponibilidad														
-3.3.5	Mantenibilidad														
-3.3.6	Portabilidad														
-
- 
 *1. Introducción*
 
 Una de las problemáticas que más afecta a la sociedad Colombiana es la delincuencia, por lo que debería ser un tema en el que se pusiera bastante énfasis para reducirla lo más posible, lastimosamente no hay una herramienta que permita identificar a los delincuentes y no se entrega a la sociedad para conocer quiénes son las personas riesgosas en la comunidad. Es por eso que se propone el desarrollo de una plataforma en donde se recopile la información importante de los crímenes de dichas personas y también logrando que la comunidad realice sus denuncias a través de la recopilación de los eventos criminales, ya que a partir del avance tecnológico, se puede tener un registro de los crímenes y ser fácilmente reportados por medio de las tecnologías de información con las que se cuentan.
